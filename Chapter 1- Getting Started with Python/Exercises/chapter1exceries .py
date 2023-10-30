@@ -51,11 +51,10 @@ print('date4 =', date4)
 #Write three strings in different variables and print the output as one string.
 
  #This is the solution of exercise
-string1="I"
-string2="LOVE"
-string3="YOU"
-print(string1," "+string2," "+string3)
-
+q="I"
+p="LOVE"
+r="YOU"
+print(q," "+p," "+r)
 
 ## Exercise 5: Compute area of Circle :ballot_box_with_check:
 
